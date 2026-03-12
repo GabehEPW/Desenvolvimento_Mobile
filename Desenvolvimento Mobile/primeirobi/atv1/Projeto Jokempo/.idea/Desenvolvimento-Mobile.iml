@@ -6,6 +6,9 @@
       <excludeFolder url="file://$MODULE_DIR$/desenvolvimentomobile/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/desenvolvimentomobile/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/desenvolvimentomobile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Jokempo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Jokempo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Jokempo/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
