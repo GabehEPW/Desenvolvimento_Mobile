@@ -1,7 +1,7 @@
 import 'dart:math';
 
 class Jokenpo {
-  static const List<String> opcoes = ['pedra', 'papel', 'tesoura'];
+  static const List<String> opcoes = ['Pedra', 'Papel', 'Tesoura'];
 
   static String jogar(String escolhaJogador) {
     final random = Random();
